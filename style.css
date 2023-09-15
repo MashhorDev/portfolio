@@ -59,7 +59,7 @@ section {
     min-height: 100vh;
     display:flex ;
     align-items: center;
-    background: url(/Assets/diluc.jpg) no-repeat;
+    background: url(https://mashhordev.github.io/portfolio/Assets/diluc.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
